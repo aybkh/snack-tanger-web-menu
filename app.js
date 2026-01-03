@@ -15,9 +15,14 @@ const translations = {
             "Refrescos": "Refrescos",
             "Café": "Café",
             "Batidos": "Batidos",
-            "Postres": "Postres"
+            "Postres": "Postres",
+            "Salsas y Suplementos": "Salsas y Suplementos"
         },
-        ingredients: {}
+        ingredients: {},
+        notes: {
+            "MENÚ: Patatas + Bebida por +2€": "MENÚ: Patatas + Bebida por +2€",
+            "Base: Leche o Agua. Zumo de Naranja (+0.50€)": "Base: Leche o Agua. Zumo de Naranja (+0.50€)"
+        }
     },
     en: {
         title: "Our Menu",
@@ -34,7 +39,8 @@ const translations = {
             "Refrescos": "Soft Drinks",
             "Café": "Coffee",
             "Batidos": "Smoothies",
-            "Postres": "Desserts"
+            "Postres": "Desserts",
+            "Salsas y Suplementos": "Sauces & Extras"
         },
         ingredients: {
             "Pollo": "Chicken", "Carne Picada": "Minced Meat", "Ternera": "Beef",
@@ -43,7 +49,18 @@ const translations = {
             "Café solo": "Espresso", "Café con leche": "Coffee with Milk",
             "Cordon Bleu": "Cordon Bleu", "Nuggets": "Nuggets",
             "Pinchos de": "Skewers of", "Salchichas": "Sausages", "Vegetal": "Vegetarian",
-            "Carne": "Meat"
+            "Carne": "Meat",
+            "Hamburguesa": "Burger", "Plato de": "Plate of", "Plato": "Plate",
+            "Ensalada": "Salad", "Wrap de": "Wrap", "Wrap": "Wrap",
+            "S (1 Carne)": "S (1 Meat)", "M (1 Carne)": "M (1 Meat)",
+            "L (2 Carnes)": "L (2 Meats)", "XL (3 Carnes)": "XL (3 Meats)",
+            "Salsas": "Sauces", "Suplementos": "Extras", "Descafeinado": "Decaf",
+            "Huevo": "Egg", "Arroz": "Rice", "Pan": "Bread", "Bacon": "Bacon",
+            "Patatas": "Fries", "Incluye": "Includes", "Salsa": "Sauce"
+        },
+        notes: {
+            "MENÚ: Patatas + Bebida por +2€": "MENU: Fries + Drink for +2€",
+            "Base: Leche o Agua. Zumo de Naranja (+0.50€)": "Base: Milk or Water. Orange Juice (+0.50€)"
         }
     },
     fr: {
@@ -61,13 +78,27 @@ const translations = {
             "Refrescos": "Boissons",
             "Café": "Café",
             "Batidos": "Smoothies",
-            "Postres": "Desserts"
+            "Postres": "Desserts",
+            "Salsas y Suplementos": "Sauces et Suppléments"
         },
         ingredients: {
             "Pollo": "Poulet", "Carne Picada": "Viande Hachée", "Ternera": "Bœuf",
             "Atún": "Thon", "Gambas": "Crevettes", "Queso": "Fromage", "Verduras": "Légumes",
             "Naranja": "Orange", "Fresa": "Fraise", "Plátano": "Banane",
-            "Café solo": "Espresso", "Café con leche": "Café au Lait"
+            "Café solo": "Espresso", "Café con leche": "Café au Lait",
+            "Pinchos de": "Brochettes de", "Salchichas": "Saucisses", "Vegetal": "Végétarien",
+            "Hamburguesa": "Burger", "Plato de": "Assiette de", "Plato": "Assiette",
+            "Ensalada": "Salade", "Wrap de": "Wrap", "Wrap": "Wrap",
+            "S (1 Carne)": "S (1 Viande)", "M (1 Carne)": "M (1 Viande)",
+            "L (2 Carnes)": "L (2 Viandes)", "XL (3 Carnes)": "XL (3 Viandes)",
+            "Salsas": "Sauces", "Suplementos": "Suppléments", "Descafeinado": "Décaféiné",
+            "Carne": "Viande", "Cortado": "Noisette",
+            "Huevo": "Oeuf", "Arroz": "Riz", "Pan": "Pain", "Bacon": "Bacon",
+            "Patatas": "Frites", "Incluye": "Inclus", "Salsa": "Sauce"
+        },
+        notes: {
+            "MENÚ: Patatas + Bebida por +2€": "MENU: Frites + Boisson pour +2€",
+            "Base: Leche o Agua. Zumo de Naranja (+0.50€)": "Base: Lait ou Eau. Jus d'Orange (+0.50€)"
         }
     },
     de: {
@@ -85,7 +116,8 @@ const translations = {
             "Refrescos": "Erfrischungsgetränke",
             "Café": "Kaffee",
             "Batidos": "Smoothies",
-            "Postres": "Desserts"
+            "Postres": "Desserts",
+            "Salsas y Suplementos": "Soßen & Extras"
         },
         ingredients: {
             "Pollo": "Hähnchen", "Carne Picada": "Hackfleisch", "Ternera": "Rindfleisch",
@@ -93,7 +125,16 @@ const translations = {
             "Naranja": "Orange", "Fresa": "Erdbeere", "Plátano": "Banane",
             "Café solo": "Schwarzer Kaffee", "Café con leche": "Milchkaffee",
             "Pinchos de": "Spieße von", "Salchichas": "Würstchen", "Vegetal": "Vegetarisch",
-            "S (1 Carne)": "S (1 Fleisch)", "M (1 Carne)": "M (1 Fleisch)", "L (2 Carnes)": "L (2 Fleisch)", "XL (3 Carnes)": "XL (3 Fleisch)"
+            "S (1 Carne)": "S (1 Fleisch)", "M (1 Carne)": "M (1 Fleisch)", "L (2 Carnes)": "L (2 Fleisch)", "XL (3 Carnes)": "XL (3 Fleisch)",
+            "Hamburguesa": "Burger", "Plato de": "Teller mit", "Plato": "Teller",
+            "Ensalada": "Salat", "Wrap de": "Wrap", "Wrap": "Wrap",
+            "Salsas": "Soßen", "Suplementos": "Extras", "Descafeinado": "Koffeinfrei",
+            "Huevo": "Ei", "Arroz": "Reis", "Pan": "Brot", "Bacon": "Speck",
+            "Patatas": "Pommes", "Incluye": "Enthält", "Salsa": "Soße"
+        },
+        notes: {
+            "MENÚ: Patatas + Bebida por +2€": "MENÜ: Pommes + Getränk für +2€",
+            "Base: Leche o Agua. Zumo de Naranja (+0.50€)": "Basis: Milch oder Wasser. Orangensaft (+0,50€)"
         }
     },
     nl: {
@@ -111,7 +152,8 @@ const translations = {
             "Refrescos": "Frisdranken",
             "Café": "Koffie",
             "Batidos": "Smoothies",
-            "Postres": "Desserts"
+            "Postres": "Desserts",
+            "Salsas y Suplementos": "Sauzen & Extra's"
         },
         ingredients: {
             "Pollo": "Kip", "Carne Picada": "Gehakt", "Ternera": "Rundvlees",
@@ -119,7 +161,16 @@ const translations = {
             "Naranja": "Sinaasappel", "Fresa": "Aardbei", "Plátano": "Banaan",
             "Café solo": "Zwarte Koffie", "Café con leche": "Koffie verkeerd",
             "Pinchos de": "Spiesjes van", "Salchichas": "Worstjes", "Vegetal": "Vegetarisch",
-            "S (1 Carne)": "S (1 Vlees)", "M (1 Carne)": "M (1 Vlees)", "L (2 Carnes)": "L (2 Vlees)", "XL (3 Carnes)": "XL (3 Vlees)"
+            "S (1 Carne)": "S (1 Vlees)", "M (1 Carne)": "M (1 Vlees)", "L (2 Carnes)": "L (2 Vlees)", "XL (3 Carnes)": "XL (3 Vlees)",
+            "Hamburguesa": "Burger", "Plato de": "Schotel van", "Plato": "Schotel",
+            "Ensalada": "Salade", "Wrap de": "Wrap", "Wrap": "Wrap",
+            "Salsas": "Sauzen", "Suplementos": "Extra's", "Descafeinado": "Cafeïnevrij",
+            "Huevo": "Ei", "Arroz": "Rijst", "Pan": "Brood", "Bacon": "Bacon",
+            "Patatas": "Friet", "Incluye": "Inclusief", "Salsa": "Saus"
+        },
+        notes: {
+            "MENÚ: Patatas + Bebida por +2€": "MENU: Friet + Drankje voor +2€",
+            "Base: Leche o Agua. Zumo de Naranja (+0.50€)": "Basis: Melk of Water. Sinaasappelsap (+0.50€)"
         }
     },
     ar: {
@@ -137,7 +188,8 @@ const translations = {
             "Refrescos": "مشروبات غازية",
             "Café": "قهوة",
             "Batidos": "عصائر",
-            "Postres": "حلويات"
+            "Postres": "حلويات",
+            "Salsas y Suplementos": "صلصات وإضافات"
         },
         ingredients: {
             "Pollo": "دجاج", "Carne Picada": "لحم مفروم", "Ternera": "لحم بقر",
@@ -145,7 +197,19 @@ const translations = {
             "Naranja": "برتقال", "Fresa": "فراولة", "Plátano": "موز",
             "Café solo": "قهوة سوداء", "Café con leche": "قهوة بالحليب",
             "Pinchos de Pollo": "قطبان دجاج", "Pinchos Ternera": "قطبان لحم",
-            "Salchichas": "نقانق", "Vegetal": "نباتي", "Mixto (2 carnes)": "مشكل (لحمين)"
+            "Hamburguesa": "برغر", "Plato de": "طبق", "Plato": "طبق",
+            "Ensalada": "سلطة", "Wrap de": "سندويش", "Wrap": "سندويش",
+            "Salchichas": "نقانق", "Vegetal": "نباتي", "Mixto (2 carnes)": "مشكل (لحمين)",
+            "S (1 Carne)": "صغير (لحم 1)", "M (1 Carne)": "متوسط (لحم 1)",
+            "L (2 Carnes)": "كبير (لحمين)", "XL (3 Carnes)": "إكس إل (3 لحوم)",
+            "Salsas": "صلصات", "Suplementos": "إضافات", "Descafeinado": "بدون كافيين",
+            "Cortado": "مهرس", "Carne": "لحم", "Pinchos de": "قطبان",
+            "Huevo": "بيض", "Arroz": "أرز", "Pan": "خبز", "Bacon": "لحم مقدد",
+            "Patatas": "بطاطس", "Incluye": "يشمل", "Salsa": "صلصة"
+        },
+        notes: {
+            "MENÚ: Patatas + Bebida por +2€": "قائمة: بطاطس + مشروب بـ +2 يورو",
+            "Base: Leche o Agua. Zumo de Naranja (+0.50€)": "الأساس: حليب أو ماء. عصير برتقال (+0.50 يورو)"
         }
     }
 };
@@ -245,7 +309,8 @@ function getTranslatedName(originalName) {
 
     // Partial replacement (e.g. "Taco Pollo" -> "Taco Chicken")
     Object.keys(map).forEach(key => {
-        translated = translated.replace(key, map[key]);
+        // Use split/join to replace all occurrences without regex issues
+        translated = translated.split(key).join(map[key]);
     });
 
     return translated;
@@ -280,9 +345,12 @@ function renderMenu() {
 
         // Category Note (e.g. Menu +2e)
         if (cat.notes) {
+            const tNotes = translations[currentLang].notes || {};
+            const translatedNote = tNotes[cat.notes] || cat.notes;
+
             const noteDiv = document.createElement('div');
             noteDiv.className = 'cat-note';
-            noteDiv.innerHTML = `<i data-lucide="info" width="16" height="16"></i> ${cat.notes}`;
+            noteDiv.innerHTML = `<i data-lucide="info" width="16" height="16"></i> ${translatedNote}`;
             section.appendChild(noteDiv);
         }
 
@@ -311,6 +379,11 @@ function renderMenu() {
 
             // Description / Variants
             let descDisplay = prod.description || '';
+            // Translate description if available
+            if (descDisplay) {
+                descDisplay = getTranslatedName(descDisplay);
+            }
+
             let variantHtml = '';
 
             if (prod.variants && prod.variants.length > 0) {
@@ -321,7 +394,7 @@ function renderMenu() {
                     variantHtml = `<div class="variant-grid">
                         ${prod.variants.map(v => `
                             <div class="variant-item">
-                                <span class="v-name">${v.name}</span>
+                                <span class="v-name">${getTranslatedName(v.name)}</span>
                                 <span class="v-price">${v.price}€</span>
                             </div>
                         `).join('')}
