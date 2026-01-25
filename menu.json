@@ -1,720 +1,707 @@
 [
   {
-    "id": 12,
-    "name": "Pizzas",
-    "image": "pizza.jpg",
+    "id": 2,
+    "name": "Tacos 303",
+    "image": "taco.svg",
     "products": [
       {
-        "id": 64,
+        "id": 1,
+        "name": "Taco S",
+        "description": null,
+        "price": 4.5,
+        "image": null,
+        "is_menu_compatible": true,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 2,
+        "name": "Taco M",
+        "description": null,
+        "price": 6.0,
+        "image": null,
+        "is_menu_compatible": true,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 3,
+        "name": "Taco L",
+        "description": null,
+        "price": 7.0,
+        "image": null,
+        "is_menu_compatible": true,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 4,
+        "name": "Taco XL",
+        "description": null,
+        "price": 8.0,
+        "image": null,
+        "is_menu_compatible": true,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Pizzas",
+    "image": "pizza.svg",
+    "products": [
+      {
+        "id": 5,
         "name": "Margarita",
+        "description": null,
+        "price": 7.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 6,
+        "name": "Atún",
+        "description": null,
+        "price": 8.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 8,
+        "name": "Carne Picada",
+        "description": null,
+        "price": 8.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 7,
+        "name": "Pollo",
+        "description": null,
+        "price": 8.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 9,
+        "name": "Marisco",
+        "description": null,
+        "price": 9.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 10,
+        "name": "Tanger 303",
+        "description": null,
+        "price": 11.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tajins",
+    "image": "tajin.svg",
+    "products": [
+      {
+        "id": 11,
+        "name": "Tajin de Kefta",
         "description": null,
         "price": 6.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       },
       {
-        "id": 65,
-        "name": "Atún",
+        "id": 12,
+        "name": "Tajin de Gambas 'Pil Pil'",
         "description": null,
         "price": 7.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       },
       {
-        "id": 66,
-        "name": "Pollo",
+        "id": 13,
+        "name": "Kapsalon",
         "description": null,
         "price": 7.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       },
       {
-        "id": 67,
-        "name": "Carne Picada",
+        "id": 78,
+        "name": "Tajin Marisco",
+        "description": null,
+        "price": 9.0,
+        "image": "tajin-marisco-tajin.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 79,
+        "name": "Sopa de pescado",
+        "description": null,
+        "price": 4.5,
+        "image": "sopa-de-pescado-tajin.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hamburguesas",
+    "image": "burger.svg",
+    "products": [
+      {
+        "id": 21,
+        "name": "Hamburguesa Ternera",
+        "description": null,
+        "price": 6.0,
+        "image": null,
+        "is_menu_compatible": true,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 23,
+        "name": "Hamburguesa Tenders",
+        "description": null,
+        "price": 7.0,
+        "image": null,
+        "is_menu_compatible": true,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Platos Combinados",
+    "image": "plato.svg",
+    "products": [
+      {
+        "id": 24,
+        "name": "Plato de Pollo",
         "description": null,
         "price": 7.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       },
       {
-        "id": 68,
-        "name": "Marisco",
+        "id": 25,
+        "name": "Plato Carne Picada",
+        "description": null,
+        "price": 7.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 28,
+        "name": "Plato Maxi Tenders",
         "description": null,
         "price": 8.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       },
       {
-        "id": 69,
-        "name": "Tanger 303",
+        "id": 80,
+        "name": "Plato Marisco",
         "description": null,
-        "price": 8.0,
+        "price": 10.0,
+        "image": "plato-marisco-plato.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ensaladas",
+    "image": "salad.svg",
+    "products": [
+      {
+        "id": 29,
+        "name": "Ensalada Pequeña",
+        "description": null,
+        "price": 5.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 30,
+        "name": "Ensalada Familiar",
+        "description": null,
+        "price": 9.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Refrescos",
+    "image": "drink.svg",
+    "products": [
+      {
+        "id": 33,
+        "name": "Coca-Cola",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 34,
+        "name": "Fanta",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 35,
+        "name": "Sprite",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 36,
+        "name": "Nestea",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 37,
+        "name": "Aquarius",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 38,
+        "name": "Poms",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 39,
+        "name": "Hawaii",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 40,
+        "name": "Schweppes",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 41,
+        "name": "Oasis Tropical",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 42,
+        "name": "Vichy Catalan",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 43,
+        "name": "Don Simon",
+        "description": null,
+        "price": 1.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 44,
+        "name": "Redbull",
+        "description": null,
+        "price": 2.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 75,
+        "name": "Bezoya",
+        "description": null,
+        "price": 1.5,
+        "image": "bezoya.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 76,
+        "name": "Font Vella",
+        "description": null,
+        "price": 1.5,
+        "image": "font-vella.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 77,
+        "name": "Aqua Deus",
+        "description": null,
+        "price": 1.5,
+        "image": "aqua-deus.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Batidos",
+    "image": "shake.svg",
+    "products": [
+      {
+        "id": 49,
+        "name": "Naranja",
+        "description": null,
+        "price": 3.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 50,
+        "name": "Plátano",
+        "description": null,
+        "price": 3.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 51,
+        "name": "Aguacate",
+        "description": null,
+        "price": 3.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 52,
+        "name": "Fresa",
+        "description": null,
+        "price": 4.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 53,
+        "name": "Dragón",
+        "description": null,
+        "price": 4.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 54,
+        "name": "Mango",
+        "description": null,
+        "price": 4.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 81,
+        "name": "Tropical",
+        "description": null,
+        "price": 4.5,
+        "image": "tropical.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Postres",
+    "image": "dessert.svg",
+    "products": [
+      {
+        "id": 56,
+        "name": "Flan Casero",
+        "description": null,
+        "price": 3.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 55,
+        "name": "Copa de Tiramisú",
+        "description": null,
+        "price": 2.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": false,
         "variants": []
       }
     ]
   },
   {
     "id": 13,
-    "name": "Tacos 303",
-    "image": "taco.jpg",
+    "name": "Salsas",
+    "image": "salsas.svg",
     "products": [
       {
         "id": 59,
-        "name": "Carne Picada",
+        "name": "Salsa Algerian",
         "description": null,
-        "price": null,
+        "price": 0.5,
         "image": null,
-        "is_menu_compatible": true,
-        "variants": [
-          {
-            "id": 21,
-            "name": "S (1 Carne)",
-            "price": 4.5
-          },
-          {
-            "id": 22,
-            "name": "M (1 Carne)",
-            "price": 6.0
-          },
-          {
-            "id": 23,
-            "name": "L (2 Carnes)",
-            "price": 7.0
-          },
-          {
-            "id": 24,
-            "name": "XL (3 Carnes)",
-            "price": 8.0
-          }
-        ]
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
       },
       {
         "id": 60,
-        "name": "Pollo",
+        "name": "Salsa Andaluza",
         "description": null,
-        "price": null,
+        "price": 0.5,
         "image": null,
-        "is_menu_compatible": true,
-        "variants": [
-          {
-            "id": 25,
-            "name": "S (1 Carne)",
-            "price": 4.5
-          },
-          {
-            "id": 26,
-            "name": "M (1 Carne)",
-            "price": 6.0
-          },
-          {
-            "id": 27,
-            "name": "L (2 Carnes)",
-            "price": 7.0
-          },
-          {
-            "id": 28,
-            "name": "XL (3 Carnes)",
-            "price": 8.0
-          }
-        ]
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
       },
       {
         "id": 61,
-        "name": "Nuggets",
+        "name": "Salsa Barbacoa",
         "description": null,
-        "price": null,
+        "price": 0.5,
         "image": null,
-        "is_menu_compatible": true,
-        "variants": [
-          {
-            "id": 29,
-            "name": "S (1 Carne)",
-            "price": 4.5
-          },
-          {
-            "id": 30,
-            "name": "M (1 Carne)",
-            "price": 6.0
-          },
-          {
-            "id": 31,
-            "name": "L (2 Carnes)",
-            "price": 7.0
-          },
-          {
-            "id": 32,
-            "name": "XL (3 Carnes)",
-            "price": 8.0
-          }
-        ]
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
       },
       {
         "id": 62,
-        "name": "Cordon Bleu",
+        "name": "Salsa Biggie",
         "description": null,
-        "price": null,
+        "price": 0.5,
         "image": null,
-        "is_menu_compatible": true,
-        "variants": [
-          {
-            "id": 33,
-            "name": "S (1 Carne)",
-            "price": 4.5
-          },
-          {
-            "id": 34,
-            "name": "M (1 Carne)",
-            "price": 6.0
-          },
-          {
-            "id": 35,
-            "name": "L (2 Carnes)",
-            "price": 7.0
-          },
-          {
-            "id": 36,
-            "name": "XL (3 Carnes)",
-            "price": 8.0
-          }
-        ]
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
       },
       {
         "id": 63,
-        "name": "Maxi TENDERS",
+        "name": "Salsa Brazil",
         "description": null,
-        "price": null,
+        "price": 0.5,
         "image": null,
-        "is_menu_compatible": true,
-        "variants": [
-          {
-            "id": 37,
-            "name": "S (1 Carne)",
-            "price": 5.5
-          },
-          {
-            "id": 38,
-            "name": "M (1 Carne)",
-            "price": 7.0
-          },
-          {
-            "id": 39,
-            "name": "L (2 Carnes)",
-            "price": 8.0
-          },
-          {
-            "id": 40,
-            "name": "XL (3 Carnes)",
-            "price": 9.0
-          }
-        ]
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 64,
+        "name": "Salsa Chilli Thai",
+        "description": null,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 65,
+        "name": "Salsa Curry",
+        "description": null,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 66,
+        "name": "Salsa Ketchup",
+        "description": null,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 67,
+        "name": "Salsa Marocaine",
+        "description": null,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 68,
+        "name": "Salsa Mayonesa",
+        "description": null,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 69,
+        "name": "Salsa Pita Kebab",
+        "description": null,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 70,
+        "name": "Salsa Samurai",
+        "description": null,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
       }
     ]
   },
   {
     "id": 14,
-    "name": "Tajins",
-    "image": "tajin.jpg",
+    "name": "Suplementos",
+    "image": "suplementos.svg",
     "products": [
-      {
-        "id": 70,
-        "name": "Tajin de Kefta",
-        "description": null,
-        "price": 6.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
       {
         "id": 71,
-        "name": "Tajin de Gambas 'Pil Pil'",
-        "description": null,
-        "price": 7.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 72,
-        "name": "Kapsalon",
-        "description": null,
-        "price": 7.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Bocadillos Tanger",
-    "image": "sandwitch.jpg",
-    "products": [
-      {
-        "id": 73,
-        "name": "Pinchos de Pollo",
-        "description": null,
-        "price": 4.5,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 74,
-        "name": "Pinchos Ternera",
-        "description": null,
-        "price": 4.5,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 75,
-        "name": "Carne Picada",
-        "description": null,
-        "price": 4.5,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 76,
-        "name": "Salchichas",
-        "description": null,
-        "price": 4.5,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 77,
-        "name": "Vegetal",
-        "description": null,
-        "price": 4.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 78,
-        "name": "Gambas",
-        "description": null,
-        "price": 5.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 79,
-        "name": "Mixto (2 carnes)",
-        "description": null,
-        "price": 5.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Hamburguesas",
-    "image": "burger.jpg",
-    "products": [
-      {
-        "id": 80,
-        "name": "Hamburguesa Ternera",
-        "description": null,
-        "price": 6.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 81,
-        "name": "Hamburguesa Pollo",
-        "description": null,
-        "price": 6.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 82,
-        "name": "Hamburguesa Tenders",
-        "description": null,
-        "price": 7.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Platos Combinados",
-    "image": "plato.jpg",
-    "products": [
-      {
-        "id": 83,
-        "name": "Plato de Pollo",
-        "description": null,
-        "price": 7.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 84,
-        "name": "Plato Carne Picada",
-        "description": null,
-        "price": 7.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 85,
-        "name": "Plato Gambas",
-        "description": null,
-        "price": 8.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 86,
-        "name": "Plato de Calamares",
-        "description": null,
-        "price": 8.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 87,
-        "name": "Plato Maxi Tenders",
-        "description": null,
-        "price": 8.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "Ensaladas",
-    "image": "salad.jpg",
-    "products": [
-      {
-        "id": 88,
-        "name": "Ensalada Pequeña",
-        "description": null,
-        "price": 4.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 89,
-        "name": "Ensalada Familiar",
-        "description": null,
-        "price": 8.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "Wraps",
-    "image": "wrap.jpg",
-    "products": [
-      {
-        "id": 90,
-        "name": "Wrap de Pollo",
-        "description": null,
-        "price": 6.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      },
-      {
-        "id": 91,
-        "name": "Wrap Carne Picada",
-        "description": null,
-        "price": 6.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "name": "Refrescos",
-    "image": "drink.jpg",
-    "products": [
-      {
-        "id": 92,
-        "name": "Coca-Cola",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 93,
-        "name": "Fanta",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 94,
-        "name": "Sprite",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 95,
-        "name": "Nestea",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 96,
-        "name": "Aquarius",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 97,
-        "name": "Poms",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 98,
-        "name": "Hawaii",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 99,
-        "name": "Schweppes",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 100,
-        "name": "Oasis Tropical",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 101,
-        "name": "Vichy Catalan",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 102,
-        "name": "Don Simon",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 103,
-        "name": "Redbull",
-        "description": null,
-        "price": 2.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "name": "Café",
-    "image": "coffee.jpg",
-    "products": [
-      {
-        "id": 104,
-        "name": "Café solo",
+        "name": "Huevo Duro",
         "description": null,
         "price": 1.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       },
       {
-        "id": 105,
-        "name": "Cortado",
+        "id": 72,
+        "name": "Huevo Frito",
         "description": null,
-        "price": 1.2,
+        "price": 1.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       },
       {
-        "id": 106,
-        "name": "Café con leche",
+        "id": 73,
+        "name": "Lonchas de Queso",
         "description": null,
-        "price": 1.5,
+        "price": 1.0,
         "image": null,
         "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       },
       {
-        "id": 107,
-        "name": "Descafeinado",
+        "id": 74,
+        "name": "Mortadela",
         "description": null,
-        "price": 1.5,
+        "price": 1.0,
         "image": null,
         "is_menu_compatible": false,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "name": "Batidos",
-    "image": "shake.jpg",
-    "products": [
-      {
-        "id": 108,
-        "name": "Naranja",
-        "description": null,
-        "price": 3.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 109,
-        "name": "Plátano",
-        "description": null,
-        "price": 3.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 110,
-        "name": "Aguacate",
-        "description": null,
-        "price": 3.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 111,
-        "name": "Fresa",
-        "description": null,
-        "price": 4.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 112,
-        "name": "Dragón",
-        "description": null,
-        "price": 4.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 113,
-        "name": "Mango",
-        "description": null,
-        "price": 4.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "name": "Postres",
-    "image": "dessert.jpg",
-    "products": [
-      {
-        "id": 114,
-        "name": "Copa de Tiramisú",
-        "description": null,
-        "price": 2.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 115,
-        "name": "Flan Casero",
-        "description": null,
-        "price": 3.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 116,
-        "name": "Helado '3 bolas'",
-        "description": null,
-        "price": 3.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "variants": []
-      },
-      {
-        "id": 117,
-        "name": "Tarta",
-        "description": null,
-        "price": 3.0,
-        "image": null,
-        "is_menu_compatible": false,
+        "is_available": true,
         "variants": []
       }
     ]
