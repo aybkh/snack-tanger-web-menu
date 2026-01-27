@@ -132,17 +132,7 @@
         "id": 12,
         "name": "Tajin de Gambas 'Pil Pil'",
         "description": null,
-        "price": 7.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 13,
-        "name": "Kapsalon",
-        "description": null,
-        "price": 7.0,
+        "price": 8.0,
         "image": null,
         "is_menu_compatible": false,
         "is_available": true,
@@ -154,6 +144,16 @@
         "description": null,
         "price": 9.0,
         "image": "tajin-marisco-tajin.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 13,
+        "name": "Kapsalon",
+        "description": null,
+        "price": 7.0,
+        "image": null,
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -226,7 +226,7 @@
         "id": 28,
         "name": "Plato Maxi Tenders",
         "description": null,
-        "price": 8.0,
+        "price": 9.0,
         "image": null,
         "is_menu_compatible": false,
         "is_available": true,
@@ -238,6 +238,26 @@
         "description": null,
         "price": 10.0,
         "image": "plato-marisco-plato.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 82,
+        "name": "Emince de Pollo",
+        "description": null,
+        "price": 9.0,
+        "image": "emince-de-pollo-plato.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 83,
+        "name": "Emince de Carne",
+        "description": null,
+        "price": 11.0,
+        "image": "emince-de-carne-plato.jpg",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -701,7 +721,7 @@
         "price": 1.0,
         "image": null,
         "is_menu_compatible": false,
-        "is_available": false,
+        "is_available": true,
         "variants": []
       }
     ]
