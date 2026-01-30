@@ -223,26 +223,6 @@
         "variants": []
       },
       {
-        "id": 28,
-        "name": "Plato Maxi Tenders",
-        "description": null,
-        "price": 9.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 80,
-        "name": "Plato Marisco",
-        "description": null,
-        "price": 10.0,
-        "image": "plato-marisco-plato.jpg",
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
         "id": 82,
         "name": "Emince de Pollo",
         "description": null,
@@ -253,10 +233,30 @@
         "variants": []
       },
       {
+        "id": 28,
+        "name": "Plato Maxi Tenders",
+        "description": null,
+        "price": 9.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 84,
+        "name": "Plato de Marisco",
+        "description": null,
+        "price": 10.0,
+        "image": "plato-de-marisco-plato.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
         "id": 83,
         "name": "Emince de Carne",
         "description": null,
-        "price": 11.0,
+        "price": 11.01,
         "image": "emince-de-carne-plato.jpg",
         "is_menu_compatible": false,
         "is_available": true,
