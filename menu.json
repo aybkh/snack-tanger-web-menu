@@ -143,7 +143,7 @@
         "name": "Tajin Marisco",
         "description": null,
         "price": 9.0,
-        "image": "tajin-marisco-tajin.jpg",
+        "image": "tajin-marisco-tajin.webp",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -163,7 +163,7 @@
         "name": "Sopa de pescado",
         "description": null,
         "price": 4.5,
-        "image": "sopa-de-pescado-tajin.jpg",
+        "image": "sopa-de-pescado-tajin.webp",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -227,7 +227,7 @@
         "name": "Emince de Pollo",
         "description": null,
         "price": 9.0,
-        "image": "emince-de-pollo-plato.jpg",
+        "image": "emince-de-pollo-plato.webp",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -247,7 +247,7 @@
         "name": "Plato de Marisco",
         "description": null,
         "price": 10.0,
-        "image": "plato-de-marisco-plato.jpg",
+        "image": "plato-de-marisco-plato.webp",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -257,7 +257,7 @@
         "name": "Emince de Carne",
         "description": null,
         "price": 11.0,
-        "image": "emince-de-carne-plato.jpg",
+        "image": "emince-de-carne-plato.webp",
         "is_menu_compatible": false,
         "is_available": false,
         "variants": []
@@ -421,7 +421,7 @@
         "name": "Bezoya",
         "description": null,
         "price": 1.5,
-        "image": "bezoya.jpg",
+        "image": "bezoya.webp",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -431,7 +431,7 @@
         "name": "Font Vella",
         "description": null,
         "price": 1.5,
-        "image": "font-vella.jpg",
+        "image": "font-vella.webp",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -441,7 +441,7 @@
         "name": "Aqua Deus",
         "description": null,
         "price": 1.5,
-        "image": "aqua-deus.jpg",
+        "image": "aqua-deus.webp",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -498,7 +498,7 @@
         "name": "Tropical",
         "description": null,
         "price": 4.5,
-        "image": "tropical.jpg",
+        "image": "tropical.webp",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
