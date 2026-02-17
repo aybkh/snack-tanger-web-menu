@@ -114,90 +114,6 @@
     ]
   },
   {
-    "id": 3,
-    "name": "Tajins",
-    "image": "tajin.svg",
-    "products": [
-      {
-        "id": 11,
-        "name": "Tajin de Kefta",
-        "description": null,
-        "price": 6.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 12,
-        "name": "Tajin de Gambas 'Pil Pil'",
-        "description": null,
-        "price": 8.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 78,
-        "name": "Tajin Marisco",
-        "description": null,
-        "price": 9.0,
-        "image": "tajin-marisco-tajin.webp",
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 13,
-        "name": "Kapsalon",
-        "description": null,
-        "price": 7.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 79,
-        "name": "Sopa de pescado",
-        "description": null,
-        "price": 4.5,
-        "image": "sopa-de-pescado-tajin.webp",
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Hamburguesas",
-    "image": "burger.svg",
-    "products": [
-      {
-        "id": 21,
-        "name": "Hamburguesa Ternera",
-        "description": null,
-        "price": 6.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 23,
-        "name": "Hamburguesa Tenders",
-        "description": null,
-        "price": 7.0,
-        "image": null,
-        "is_menu_compatible": true,
-        "is_available": true,
-        "variants": []
-      }
-    ]
-  },
-  {
     "id": 6,
     "name": "Platos Combinados",
     "image": "plato.svg",
@@ -265,6 +181,90 @@
     ]
   },
   {
+    "id": 5,
+    "name": "Hamburguesas",
+    "image": "burger.svg",
+    "products": [
+      {
+        "id": 21,
+        "name": "Hamburguesa Ternera",
+        "description": null,
+        "price": 6.0,
+        "image": null,
+        "is_menu_compatible": true,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 23,
+        "name": "Hamburguesa Tenders",
+        "description": null,
+        "price": 7.0,
+        "image": null,
+        "is_menu_compatible": true,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tajins",
+    "image": "tajin.svg",
+    "products": [
+      {
+        "id": 11,
+        "name": "Tajin de Kefta",
+        "description": null,
+        "price": 6.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 12,
+        "name": "Tajin de Gambas 'Pil Pil'",
+        "description": null,
+        "price": 8.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 78,
+        "name": "Tajin Marisco",
+        "description": null,
+        "price": 9.0,
+        "image": "tajin-marisco-tajin.webp",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 13,
+        "name": "Kapsalon",
+        "description": null,
+        "price": 7.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 79,
+        "name": "Sopa de pescado",
+        "description": null,
+        "price": 4.5,
+        "image": "sopa-de-pescado-tajin.webp",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
     "id": 7,
     "name": "Ensaladas",
     "image": "salad.svg",
@@ -287,6 +287,100 @@
         "image": null,
         "is_menu_compatible": false,
         "is_available": true,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Batidos",
+    "image": "shake.svg",
+    "products": [
+      {
+        "id": 50,
+        "name": "Plátano",
+        "description": null,
+        "price": 3.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 51,
+        "name": "Aguacate",
+        "description": null,
+        "price": 3.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 52,
+        "name": "Fresa",
+        "description": null,
+        "price": 4.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 54,
+        "name": "Mango",
+        "description": null,
+        "price": 4.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 81,
+        "name": "Tropical",
+        "description": null,
+        "price": 4.5,
+        "image": "tropical.webp",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 49,
+        "name": "Naranja",
+        "description": null,
+        "price": 3.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": false,
+        "variants": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Postres",
+    "image": "dessert.svg",
+    "products": [
+      {
+        "id": 56,
+        "name": "Flan Casero",
+        "description": null,
+        "price": 3.0,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 55,
+        "name": "Copa de Tiramisú",
+        "description": null,
+        "price": 2.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": false,
         "variants": []
       }
     ]
@@ -387,16 +481,6 @@
         "variants": []
       },
       {
-        "id": 42,
-        "name": "Vichy Catalan",
-        "description": null,
-        "price": 1.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
         "id": 43,
         "name": "Don Simon",
         "description": null,
@@ -445,79 +529,12 @@
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Batidos",
-    "image": "shake.svg",
-    "products": [
-      {
-        "id": 50,
-        "name": "Plátano",
-        "description": null,
-        "price": 3.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
       },
       {
-        "id": 51,
-        "name": "Aguacate",
+        "id": 42,
+        "name": "Vichy Catalan",
         "description": null,
-        "price": 3.5,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 52,
-        "name": "Fresa",
-        "description": null,
-        "price": 4.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 54,
-        "name": "Mango",
-        "description": null,
-        "price": 4.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 81,
-        "name": "Tropical",
-        "description": null,
-        "price": 4.5,
-        "image": "tropical.webp",
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 53,
-        "name": "Dragón",
-        "description": null,
-        "price": 4.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": false,
-        "variants": []
-      },
-      {
-        "id": 49,
-        "name": "Naranja",
-        "description": null,
-        "price": 3.0,
+        "price": 1.5,
         "image": null,
         "is_menu_compatible": false,
         "is_available": false,
@@ -526,25 +543,45 @@
     ]
   },
   {
-    "id": 12,
-    "name": "Postres",
-    "image": "dessert.svg",
+    "id": 14,
+    "name": "Suplementos",
+    "image": "suplementos.svg",
     "products": [
       {
-        "id": 56,
-        "name": "Flan Casero",
+        "id": 71,
+        "name": "Huevo Duro",
         "description": null,
-        "price": 3.0,
+        "price": 0.5,
         "image": null,
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
       },
       {
-        "id": 55,
-        "name": "Copa de Tiramisú",
+        "id": 72,
+        "name": "Huevo Frito",
         "description": null,
-        "price": 2.5,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 73,
+        "name": "Lonchas de Queso",
+        "description": null,
+        "price": 0.5,
+        "image": null,
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 74,
+        "name": "Mortadela",
+        "description": null,
+        "price": 0.5,
         "image": null,
         "is_menu_compatible": false,
         "is_available": false,
@@ -675,53 +712,6 @@
         "image": null,
         "is_menu_compatible": false,
         "is_available": true,
-        "variants": []
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Suplementos",
-    "image": "suplementos.svg",
-    "products": [
-      {
-        "id": 71,
-        "name": "Huevo Duro",
-        "description": null,
-        "price": 1.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 72,
-        "name": "Huevo Frito",
-        "description": null,
-        "price": 1.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 73,
-        "name": "Lonchas de Queso",
-        "description": null,
-        "price": 1.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": true,
-        "variants": []
-      },
-      {
-        "id": 74,
-        "name": "Mortadela",
-        "description": null,
-        "price": 1.0,
-        "image": null,
-        "is_menu_compatible": false,
-        "is_available": false,
         "variants": []
       }
     ]
